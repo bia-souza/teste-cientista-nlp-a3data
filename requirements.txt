@@ -4,3 +4,7 @@ seaborn
 nltk
 wordcloud
 unidecode
+gensim
+streamlit
+spacy
+tokenizer
